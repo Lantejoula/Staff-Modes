@@ -35,4 +35,5 @@ Instalation
 
 Dependencies
 • Requeired: Admin STEALTH (https://forums.alliedmods.net/showthread.php?t=129911) or other Admin STEALTH
+
 • Optional (I advise): Admin WallHack (https://forums.alliedmods.net/showthread.php?t=312982) for Spectators[/url] or other Admin WallHack / Admin Esp
