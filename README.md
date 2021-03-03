@@ -24,8 +24,8 @@ ConVars
 • sm_leave_staffmode_message - Enable/Disable the Leave Staff Mode (1 - Enable | 0 - Disable)
 
 Plugin tested in CSGO with:
-• [url=https://www.sourcemod.net/downloads.php]Sourcemod 1.10[/url]
-• [url=https://www.sourcemm.net/downloads.php]Metamod:Source 1.10[/url]
+• Sourcemod 1.10 - https://www.sourcemod.net/downloads.php
+• Metamod:Source 1.10 - https://www.sourcemm.net/downloads.php
 
 Instalation
 • Install all the dependencies described below!
@@ -34,5 +34,5 @@ Instalation
 • [Optional] Configure the file plugin.bhopwhenroundend.cfg (csgo/cfg/sourcemod/plugin.fakeleavestaff.cfg)
 
 Dependencies
-• Requeired: [url=https://forums.alliedmods.net/showthread.php?t=129911]Admin STEALTH[/url] or other Admin STEALTH
-• Optional (I advise): [url=https://forums.alliedmods.net/showthread.php?t=312982]Admin WallHack for Spectators[/url] or other Admin WallHack / Admin Esp
+• Requeired: Admin STEALTH (https://forums.alliedmods.net/showthread.php?t=129911) or other Admin STEALTH
+• Optional (I advise): Admin WallHack (https://forums.alliedmods.net/showthread.php?t=312982) for Spectators[/url] or other Admin WallHack / Admin Esp
