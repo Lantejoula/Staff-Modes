@@ -1,0 +1,55 @@
+// Colors available for use in Chat
+// {default}, {red}, {lightred}, {darkred}, {bluegrey}, {blue}, {darkblue}, {purple}, {orchid}, {yellow}, {gold}, {lightgreen}, {green}, {lime}, {grey}, {grey2}
+
+// Cores disponíveis para usar no Chat
+// {default}, {red}, {lightred}, {darkred}, {bluegrey}, {blue}, {darkblue}, {purple}, {orchid}, {yellow}, {gold}, {lightgreen}, {green}, {lime}, {grey}, {grey2}
+
+//"{DEFAULT}", "{RED}", "{LIGHTPURPLE}", "{GREEN}", "{LIME}", "{LIGHTGREEN}", "{LIGHTRED}", "{GRAY}", "{LIGHTOLIVE}", "{OLIVE}", "{LIGHTBLUE}", "{BLUE}", "{PURPLE}", "{TEAMCOLOR}"
+
+"Phrases"
+{
+	"Prefix"
+	{
+		"en"		"[ {green}TAG {default}]"
+		"pt"		"[ {green}TAG {default}]"
+		"pt_p"		"[ {green}TAG {default}]"
+	}
+	
+	"You dont have access"
+	{
+		"en"		"You don't have Access to this Command!"
+		"pt"		"Não tens Acesso a este Comando!"
+		"pt_p"		"Não tens Acesso a este Comando!"
+	}
+	
+	"Staff Join"
+	{
+		"#format"	"{1:s}"
+		"en"		"[{green}+{default}] {1} {green}Joined the Server{default}!"
+		"pt"		"[{green}+{default}] {1} {green}Entrou no Servidor{default}!"
+		"pt_P"		"[{green}+{default}] {1} {green}Entrou no Servidor{default}!"
+	}
+	
+	"Staff Leave"
+	{
+		"#format"	"{1:s}"
+		"en"		"[{darkred}-{default}] {1} {darkred}Left the Server{default}"
+		"pt"		"[{red}-{default}] {1} {darkred}Saiu do Servidor{default}"
+		"pt_P"		"[{red}-{default}] {1} {darkred}Saiu do Servidor{default}"
+	}
+	
+	"Join Staff Mode"
+	{
+		"en"		"Type {green}t {default}or {green}ct {default} to exit STAFF Mode."
+		"pt"		"Usa {green}t {default}ou {green}ct {default}para Saires do Modo Staff!"
+		"pt_p"		"Usa {green}t {default}ou {green}ct {default}para Saires do Modo Staff!"
+	}
+	
+	"Leave Staff Mode"
+	{
+		"en"		"You left the {green}Staff Mode{default}."
+		"pt"		"Tu saiste do {green}Modo Staff{default}."
+		"pt_p"		"Tu saiste do {green}Modo Staff{default}."
+	}
+}
+
