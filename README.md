@@ -1,11 +1,16 @@
 # Fake-Leave
 [CS GO] Fake Leave Server for Staff
 
+
+
 Description
+
 Fake Leave for Staff with chat message and join team with message!
 See the Dependencies
 
 You can change the messages and the tag in the translations and you can disable the messages in the plugin.fakeleavestaff.cfg
+
+
 
 Commands
 
@@ -14,6 +19,7 @@ Commands
 • !t - Join team Terrorist with message (And turn off Wall hack if you install all dependencies)
 
 • !ct -  Join team Counter-Terrorist with message (And turn off Wall hack if you install all dependencies)
+
 
 
 ConVars
@@ -27,11 +33,15 @@ ConVars
 • sm_leave_staffmode_message - Enable/Disable the Leave Staff Mode (1 - Enable | 0 - Disable)
 
 
+
 Plugin tested in CSGO with
 
 • Sourcemod 1.10 - https://www.sourcemod.net/downloads.php
 
 • Metamod:Source 1.10 - https://www.sourcemm.net/downloads.php
+
+
+
 
 Instalation
 
@@ -42,6 +52,8 @@ Instalation
 • Restart your Server or Load the Plugin or Change the Map
 
 • [Optional] Configure the file plugin.bhopwhenroundend.cfg (csgo/cfg/sourcemod/plugin.fakeleavestaff.cfg)
+
+
 
 Dependencies
 
